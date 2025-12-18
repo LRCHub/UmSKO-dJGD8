@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "青",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-18T08:53:34.709469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/01_青_ヒトリエ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青",
+      "artist": "りょーくん",
+      "has_synced": true,
+      "path": "select/02_青_りょーくん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Branca (feat. Shatty & Mauro Vise 青)",
+      "artist": "Mugshot",
+      "has_synced": true,
+      "path": "select/03_Branca_(feat._Shatty_&_Mauro_Vise_青)_Mugshot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "深い 深い 青",
+      "artist": "アンテナ",
+      "has_synced": false,
+      "path": "select/04_深い_深い_青_アンテナ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/05_青_ゆず.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/06_青_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tell Me (feat. Shatty & Mauro Vise 青)",
+      "artist": "Mugshot",
+      "has_synced": true,
+      "path": "select/07_Tell_Me_(feat._Shatty_&_Mauro_Vise_青)_Mugshot.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青 feat.GUMI",
+      "artist": "164",
+      "has_synced": false,
+      "path": "select/08_青_feat.GUMI_164.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/09_青_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/10_青_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "青",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": false,
+      "path": "select/11_青_BLUE_ENCOUNT.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "青",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/12_青_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Branca (con Shatty y Mauro Vise 青)",
+      "artist": "Mugshot",
+      "has_synced": true,
+      "path": "select/13_Branca_(con_Shatty_y_Mauro_Vise_青)_Mugshot.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "青",
+      "artist": "秦基博",
+      "has_synced": false,
+      "path": "select/14_青_秦基博.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "青 花 瓷",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/15_青_花_瓷_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "青 - AO",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/16_青_-_AO_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "10.青 春修炼手册",
+      "artist": "TFBOYS",
+      "has_synced": true,
+      "path": "select/17_10.青_春修炼手册_TFBOYS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_青_My_Hair_is_Bad.txt"
+    }
+  ]
+}
